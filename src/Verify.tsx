@@ -120,7 +120,7 @@ export default function Verify() {
                         </Card>
                     </Stepper.Step>
                     <Stepper.Completed>
-                        Completed, click back button to get to previous step
+                        Completed! Your Github is now mapped to your address!
                     </Stepper.Completed>
                 </Stepper>
 
